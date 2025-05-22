@@ -2,7 +2,6 @@
 
 Nossa missão é levar **informação acessível, atualizada, científica e confiável** sobre cannabis medicinal de forma **conversada, descontraída e inclusiva**, usando inteligência artificial para **democratizar o conhecimento** no Brasil e nos Estados Unidos.
 
-![Safety Zone CBD.png](Safety_Zone_CBD.png)
 
 # Objetivos do Podcast
 
